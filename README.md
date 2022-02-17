@@ -1,6 +1,9 @@
 # flutter_google_maps
 
-A new Flutter project.
+FLutter place finder using:
+-MVVM Design pattern
+-google maps
+-Provider package for state managment
 
 ## Getting Started
 
